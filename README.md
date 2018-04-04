@@ -9,3 +9,5 @@
 然而这里https://zhuanlan.zhihu.com/p/31863288, 和https://www.zhihu.com/question/37236147
 作者都推荐使用GLM进行简单效应分析，并且SPSS官方也推荐使用。相关介绍在这里：http://www-01.ibm.com/support/docview.wss?uid=swg21475404 和
 http://www-01.ibm.com/support/docview.wss?uid=swg21476140
+## 二、post hoc和多重比较
+这里有详细解答：http://52brain.com/thread-24156-1-1.html
